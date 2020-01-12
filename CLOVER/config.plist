@@ -250,12 +250,10 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<true/>
+			<false/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
-		<key>ig-platform-id</key>
-		<string>0x3E980003</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
