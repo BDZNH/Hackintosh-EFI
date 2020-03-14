@@ -28,15 +28,14 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 
 # 问题解决
 
-- [x] 显卡免驱完美
-- [x] 有线以太网卡完美
+- [x] 显卡免驱(独显加入了xjn的改名属性，将rx5700改为W5700x，geekbench获取翻倍的跑分，虽然不知性能是否有翻倍)
+- [x] 有线以太网卡
 - [x] 声卡（有声音，可使用siri）
-- [x] USB3.1完美
-- [x] 完美睡眠唤醒
-- [x] 可登陆icloud，app store正常(若提示设备账户数量达到限制使用 Clover Configurator 生成新的序列号看看)
+- [x] USB3.1
 - [x] 同时驱动核显和独显
 - [x] 快速预览正常
 - [x] 解除核显 0.5 GHz限制
+- [x] h.264 和 hevc 硬解支持
 
 # 截图展示
 
