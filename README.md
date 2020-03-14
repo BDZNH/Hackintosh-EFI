@@ -36,6 +36,7 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 - [x] 可登陆icloud，app store正常(若提示设备账户数量达到限制使用 Clover Configurator 生成新的序列号看看)
 - [x] 同时驱动核显和独显
 - [x] 快速预览正常
+- [x] 解除核显 0.5 GHz限制
 
 # 截图展示
 
