@@ -28,7 +28,7 @@ Advanced -> Advanced PCH Configuration -> system time and alarm source -> Legacy
 
 # 问题解决
 
-- [x] 显卡免驱(独显加入了xjn的改名属性，将rx5700改为W5700x，geekbench获取翻倍的跑分，虽然不知性能是否有翻倍,如果不是rx5700/xt显卡需要将`PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)`段删除)
+- [x] 显卡免驱(opencore 的独显加入了xjn的改名属性，将rx5700改为W5700x，geekbench获取翻倍的跑分，虽然不知性能是否有翻倍,如果不是rx5700/xt显卡需要将`PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)`段删除)
 - [x] 有线以太网卡
 - [x] 声卡（有声音，可使用siri）
 - [x] USB3.1
